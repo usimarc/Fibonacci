@@ -1,0 +1,15 @@
+/home/alpha/Documentos/Fibonacci/bin/Debug/net8.0/Fibonacci
+/home/alpha/Documentos/Fibonacci/bin/Debug/net8.0/Fibonacci.deps.json
+/home/alpha/Documentos/Fibonacci/bin/Debug/net8.0/Fibonacci.runtimeconfig.json
+/home/alpha/Documentos/Fibonacci/bin/Debug/net8.0/Fibonacci.dll
+/home/alpha/Documentos/Fibonacci/bin/Debug/net8.0/Fibonacci.pdb
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/Fibonacci.AssemblyInfoInputs.cache
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/Fibonacci.AssemblyInfo.cs
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/Fibonacci.dll
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/refint/Fibonacci.dll
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/Fibonacci.pdb
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/Fibonacci.genruntimeconfig.cache
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/ref/Fibonacci.dll
+/home/alpha/Documentos/Fibonacci/obj/Debug/net8.0/Fibonacci.sourcelink.json
